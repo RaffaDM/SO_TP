@@ -1,0 +1,26 @@
+objective = solver.Objective()
+
+for j in range(file.get_i()):
+    objective.SetCoefficient(y[j], file.get_opening_cost()[j])
+    for i in range(file.get_j()):
+        objective.SetCoefficient(x[i][j], file.get_constraint_coeffs()[i][j])
+objective.SetMinimization()
+
+for i in range(file.get_j()):
+    constraint = solver.Constraint(0, file.get_demand()[i])
+    for j in range(file.get_i()):
+        constraint.SetCoefficient(x[i][j], 1)
+
+solver.SetTimeLimit(DEFAULT_TIME)
+status = solver.Solve()
+
+if status == pywraplp.Solver.OPTIMAL:
+    print('Objective value =', solver.Objective().Value())
+    for j in range(file.get_i()):
+        if y[j].solution_value() > 0:
+            print(f'Facility {j} is open')
+            for i in range(file.get_j()):
+                if x[i][j].solution_value() > 0:
+                    print(f'  Customer {i} is served')
+else:
+    print('The problem does not have an optimal solution.')
