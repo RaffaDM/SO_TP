@@ -1,0 +1,121 @@
+
+p1:
+The problem does not have an optimal solution.
+Advanced usage:
+Problem solved in 81303.000000 milliseconds
+Problem solved in 0 iterations
+Problem solved in 1 branch-and-bound nodes
+p10:
+The problem does not have an optimal solution.
+Advanced usage:
+Problem solved in 81587.000000 milliseconds
+Problem solved in 0 iterations
+Problem solved in 1 branch-and-bound nodes
+p11:
+The problem does not have an optimal solution.
+Advanced usage:
+Problem solved in 79683.000000 milliseconds
+Problem solved in 0 iterations
+Problem solved in 1 branch-and-bound nodes
+p12:
+The problem does not have an optimal solution.
+Advanced usage:
+Problem solved in 79295.000000 milliseconds
+Problem solved in 0 iterations
+Problem solved in 1 branch-and-bound nodes
+p13:
+The problem does not have an optimal solution.
+Advanced usage:
+Problem solved in 79234.000000 milliseconds
+Problem solved in 0 iterations
+Problem solved in 1 branch-and-bound nodes
+p14:
+The problem does not have an optimal solution.
+Advanced usage:
+Problem solved in 80717.000000 milliseconds
+Problem solved in 0 iterations
+Problem solved in 1 branch-and-bound nodes
+p15:
+The problem does not have an optimal solution.
+Advanced usage:
+Problem solved in 82074.000000 milliseconds
+Problem solved in 0 iterations
+Problem solved in 1 branch-and-bound nodes
+p16:
+The problem does not have an optimal solution.
+Advanced usage:
+Problem solved in 78612.000000 milliseconds
+Problem solved in 0 iterations
+Problem solved in 1 branch-and-bound nodes
+p17:
+The problem does not have an optimal solution.
+Advanced usage:
+Problem solved in 81860.000000 milliseconds
+Problem solved in 0 iterations
+Problem solved in 0 branch-and-bound nodes
+p18:
+The problem does not have an optimal solution.
+Advanced usage:
+Problem solved in 78960.000000 milliseconds
+Problem solved in 0 iterations
+Problem solved in 0 branch-and-bound nodes
+p19:
+The problem does not have an optimal solution.
+Advanced usage:
+Problem solved in 81154.000000 milliseconds
+Problem solved in 0 iterations
+Problem solved in 1 branch-and-bound nodes
+p2:
+The problem does not have an optimal solution.
+Advanced usage:
+Problem solved in 82714.000000 milliseconds
+Problem solved in 0 iterations
+Problem solved in 1 branch-and-bound nodes
+p20:
+The problem does not have an optimal solution.
+Advanced usage:
+Problem solved in 81881.000000 milliseconds
+Problem solved in 0 iterations
+Problem solved in 1 branch-and-bound nodes
+p3:
+Objective value =334118.0
+Advanced usage:
+Problem solved in 82969.000000 milliseconds
+Problem solved in 0 iterations
+Problem solved in 1 branch-and-bound nodes
+p4:
+The problem does not have an optimal solution.
+Advanced usage:
+Problem solved in 81126.000000 milliseconds
+Problem solved in 0 iterations
+Problem solved in 1 branch-and-bound nodes
+p5:
+Objective value =343658.0
+Advanced usage:
+Problem solved in 81550.000000 milliseconds
+Problem solved in 0 iterations
+Problem solved in 1 branch-and-bound nodes
+p6:
+The problem does not have an optimal solution.
+Advanced usage:
+Problem solved in 79591.000000 milliseconds
+Problem solved in 0 iterations
+Problem solved in 1 branch-and-bound nodes
+p7:
+The problem does not have an optimal solution.
+Advanced usage:
+Problem solved in 81807.000000 milliseconds
+Problem solved in 0 iterations
+Problem solved in 1 branch-and-bound nodes
+p8:
+The problem does not have an optimal solution.
+Advanced usage:
+Problem solved in 80438.000000 milliseconds
+Problem solved in 0 iterations
+Problem solved in 1 branch-and-bound nodes
+p9:
+The problem does not have an optimal solution.
+Advanced usage:
+Problem solved in 79847.000000 milliseconds
+Problem solved in 0 iterations
+Problem solved in 1 branch-and-bound nodes

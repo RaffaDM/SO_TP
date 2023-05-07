@@ -1,0 +1,31 @@
+
+p1:
+Objective value =30369.0
+Advanced usage:
+Problem solved in 120074.000000 milliseconds
+Problem solved in 258602 iterations
+Problem solved in 3647 branch-and-bound nodes
+p2:
+Objective value =29026.0
+Advanced usage:
+Problem solved in 120076.000000 milliseconds
+Problem solved in 265067 iterations
+Problem solved in 3258 branch-and-bound nodes
+p3:
+Objective value =28131.0
+Advanced usage:
+Problem solved in 78055.000000 milliseconds
+Problem solved in 171267 iterations
+Problem solved in 3441 branch-and-bound nodes
+p4:
+Objective value =28152.0
+Advanced usage:
+Problem solved in 120074.000000 milliseconds
+Problem solved in 206829 iterations
+Problem solved in 4338 branch-and-bound nodes
+p5:
+Objective value =27646.0
+Advanced usage:
+Problem solved in 7041.000000 milliseconds
+Problem solved in 21961 iterations
+Problem solved in 103 branch-and-bound nodes

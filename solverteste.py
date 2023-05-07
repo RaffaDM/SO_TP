@@ -1,20 +1,20 @@
 import os 
 from file_reader import FileReader
 from ortools.linear_solver import pywraplp
-from ortools.constraint_solver import pywrapcp
+
 
 
 entries = os.listdir('Lib_1')
 entries.remove('os')
-DEFAULT_TIME=120000
+DEFAULT_TIME=60000
 
 # Create SCIP Solver
 solver = pywraplp.Solver.CreateSolver('SCIP')
 
 
-with open(f'Lib_1/p2', 'r') as f:
+with open(f'Lib_1/p1', 'r') as f:
         data = f.read()
-        file= FileReader(data,'p2')
+        file= FileReader(data,'p1')
 
 
 # i facilities
@@ -34,12 +34,10 @@ for j in range(file.get_j()):
      solver.Add(solver.Sum([x[j,i] for i in range(file.get_i())])==1)
 
 for i in range(file.get_i()):
-     solver.Add(solver.Sum([x[j,i] * file.get_demand()[j] for j in range (file.get_j())]) <= file.get_capacity()[i]*y[i])
+     solver.Add(solver.Sum([x[j,i] * file.get_d()[j] for j in range (file.get_j())]) <= file.get_s()[i]*y[i])
 
-objective = []
-
-objective.append(sum(file.get_opening_cost()[i] * y[i] for i in range(file.get_i())))
-objective.append(sum(file.get_constraint_coeffs()[j][i] * x[j,i] for i in range(file.get_i()) for j in range(file.get_j())))
+objective = [sum(file.get_f()[i] * y[i] for i in range(file.get_i())),
+             sum(file.get_c()[j][i] * x[j,i] for i in range(file.get_i()) for j in range(file.get_j()))]
 
 solver.Minimize(solver.Sum(objective))
 
@@ -47,14 +45,13 @@ solver.Minimize(solver.Sum(objective))
 status = solver.Solve()
 
 if status == pywraplp.Solver.OPTIMAL or status == pywraplp.Solver.FEASIBLE:
-     print("Objective value =", solver.Objective().Value())
-     for i in range(file.get_i()):
-          for j in range(file.get_j()):
-               print(f"Customer {j} assigned to facility {j}")
-          
+     final_result=f"Objective value ={solver.Objective().Value()}"
+     print(final_result)
+      
 else:
      print("The problem does not have an optimal solution.")
 
+print("\nAdvanced usage:")
 print("Problem solved in %f milliseconds" % solver.wall_time())
 print("Problem solved in %d iterations" % solver.iterations())
 print("Problem solved in %d branch-and-bound nodes" % solver.nodes())

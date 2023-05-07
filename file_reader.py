@@ -28,21 +28,21 @@ class FileReader:
     
     def get_name(self):
         return self.name
-    # Set of facilities
+    # Get  facilities
     def get_i(self):
         return self.facilities
-    # Set of customers
+    # Get  customers
     def get_j(self):
         return self.customers
-    
-    def get_capacity(self):
+    #Get capacity
+    def get_s(self):
         return self.facilities_capacity
-
-    def get_demand(self):
+    #Get demand
+    def get_d(self):
         return self.customers_demand
-    # Fixed costs of opening the facilities
-    def get_opening_cost(self):
+    #Get  Fixed opening cost
+    def get_f(self):
         return self.facilities_opening_cost
-
-    def get_constraint_coeffs(self):
+    #Get assignment cost
+    def get_c(self):
         return self.matrix

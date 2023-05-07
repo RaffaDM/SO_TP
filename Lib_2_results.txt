@@ -1,0 +1,427 @@
+
+p1:
+Objective value =8848.0
+Advanced usage:
+Problem solved in 85.000000 milliseconds
+Problem solved in 349 iterations
+Problem solved in 1 branch-and-bound nodes
+p10:
+Objective value =7616.999999999999
+Advanced usage:
+Problem solved in 43.000000 milliseconds
+Problem solved in 175 iterations
+Problem solved in 1 branch-and-bound nodes
+p11:
+Objective value =8932.0
+Advanced usage:
+Problem solved in 70.000000 milliseconds
+Problem solved in 291 iterations
+Problem solved in 1 branch-and-bound nodes
+p12:
+Objective value =10132.0
+Advanced usage:
+Problem solved in 116.000000 milliseconds
+Problem solved in 698 iterations
+Problem solved in 1 branch-and-bound nodes
+p13:
+Objective value =8252.0
+Advanced usage:
+Problem solved in 187.000000 milliseconds
+Problem solved in 602 iterations
+Problem solved in 1 branch-and-bound nodes
+p14:
+Objective value =7137.0
+Advanced usage:
+Problem solved in 85.000000 milliseconds
+Problem solved in 316 iterations
+Problem solved in 1 branch-and-bound nodes
+p15:
+Objective value =8808.0
+Advanced usage:
+Problem solved in 146.000000 milliseconds
+Problem solved in 567 iterations
+Problem solved in 1 branch-and-bound nodes
+p16:
+Objective value =10407.999999999998
+Advanced usage:
+Problem solved in 254.000000 milliseconds
+Problem solved in 965 iterations
+Problem solved in 1 branch-and-bound nodes
+p17:
+Objective value =8227.0
+Advanced usage:
+Problem solved in 144.000000 milliseconds
+Problem solved in 420 iterations
+Problem solved in 1 branch-and-bound nodes
+p18:
+Objective value =7124.999999999999
+Advanced usage:
+Problem solved in 73.000000 milliseconds
+Problem solved in 296 iterations
+Problem solved in 1 branch-and-bound nodes
+p19:
+Objective value =8886.000000000002
+Advanced usage:
+Problem solved in 488.000000 milliseconds
+Problem solved in 1949 iterations
+Problem solved in 2 branch-and-bound nodes
+p2:
+Objective value =7912.999999999999
+Advanced usage:
+Problem solved in 53.000000 milliseconds
+Problem solved in 252 iterations
+Problem solved in 1 branch-and-bound nodes
+p20:
+Objective value =10486.0
+Advanced usage:
+Problem solved in 576.000000 milliseconds
+Problem solved in 2460 iterations
+Problem solved in 2 branch-and-bound nodes
+p21:
+Objective value =8068.0
+Advanced usage:
+Problem solved in 94.000000 milliseconds
+Problem solved in 396 iterations
+Problem solved in 1 branch-and-bound nodes
+p22:
+Objective value =7092.0
+Advanced usage:
+Problem solved in 76.000000 milliseconds
+Problem solved in 309 iterations
+Problem solved in 1 branch-and-bound nodes
+p23:
+Objective value =8746.0
+Advanced usage:
+Problem solved in 141.000000 milliseconds
+Problem solved in 655 iterations
+Problem solved in 1 branch-and-bound nodes
+p24:
+Objective value =10273.0
+Advanced usage:
+Problem solved in 514.000000 milliseconds
+Problem solved in 2207 iterations
+Problem solved in 2 branch-and-bound nodes
+p25:
+Objective value =11630.0
+Advanced usage:
+Problem solved in 3001.000000 milliseconds
+Problem solved in 11494 iterations
+Problem solved in 4 branch-and-bound nodes
+p26:
+Objective value =10771.0
+Advanced usage:
+Problem solved in 2282.000000 milliseconds
+Problem solved in 7149 iterations
+Problem solved in 7 branch-and-bound nodes
+p27:
+Objective value =12322.0
+Advanced usage:
+Problem solved in 8927.000000 milliseconds
+Problem solved in 15886 iterations
+Problem solved in 32 branch-and-bound nodes
+p28:
+Objective value =13722.0
+Advanced usage:
+Problem solved in 11276.000000 milliseconds
+Problem solved in 26809 iterations
+Problem solved in 48 branch-and-bound nodes
+p29:
+Objective value =12371.0
+Advanced usage:
+Problem solved in 7161.000000 milliseconds
+Problem solved in 18602 iterations
+Problem solved in 8 branch-and-bound nodes
+p3:
+Objective value =9314.0
+Advanced usage:
+Problem solved in 95.000000 milliseconds
+Problem solved in 382 iterations
+Problem solved in 1 branch-and-bound nodes
+p30:
+Objective value =11331.0
+Advanced usage:
+Problem solved in 21944.000000 milliseconds
+Problem solved in 45181 iterations
+Problem solved in 1453 branch-and-bound nodes
+p31:
+Objective value =13331.000000000004
+Advanced usage:
+Problem solved in 34914.000000 milliseconds
+Problem solved in 70014 iterations
+Problem solved in 2235 branch-and-bound nodes
+p32:
+Objective value =15331.0
+Advanced usage:
+Problem solved in 58818.000000 milliseconds
+Problem solved in 128076 iterations
+Problem solved in 3289 branch-and-bound nodes
+p33:
+Objective value =11629.0
+Advanced usage:
+Problem solved in 2159.000000 milliseconds
+Problem solved in 8603 iterations
+Problem solved in 3 branch-and-bound nodes
+p34:
+Objective value =10632.0
+Advanced usage:
+Problem solved in 1162.000000 milliseconds
+Problem solved in 4449 iterations
+Problem solved in 2 branch-and-bound nodes
+p35:
+Objective value =12232.0
+Advanced usage:
+Problem solved in 2069.000000 milliseconds
+Problem solved in 9235 iterations
+Problem solved in 3 branch-and-bound nodes
+p36:
+Objective value =13832.0
+Advanced usage:
+Problem solved in 2724.000000 milliseconds
+Problem solved in 12107 iterations
+Problem solved in 4 branch-and-bound nodes
+p37:
+Objective value =11258.0
+Advanced usage:
+Problem solved in 901.000000 milliseconds
+Problem solved in 3006 iterations
+Problem solved in 1 branch-and-bound nodes
+p38:
+Objective value =10551.0
+Advanced usage:
+Problem solved in 812.000000 milliseconds
+Problem solved in 2426 iterations
+Problem solved in 1 branch-and-bound nodes
+p39:
+Objective value =11824.0
+Advanced usage:
+Problem solved in 994.000000 milliseconds
+Problem solved in 3960 iterations
+Problem solved in 1 branch-and-bound nodes
+p4:
+Objective value =10714.0
+Advanced usage:
+Problem solved in 387.000000 milliseconds
+Problem solved in 1737 iterations
+Problem solved in 2 branch-and-bound nodes
+p40:
+Objective value =13024.0
+Advanced usage:
+Problem solved in 1408.000000 milliseconds
+Problem solved in 6896 iterations
+Problem solved in 1 branch-and-bound nodes
+p41:
+Objective value =6589.0
+Advanced usage:
+Problem solved in 995.000000 milliseconds
+Problem solved in 3796 iterations
+Problem solved in 3 branch-and-bound nodes
+p42:
+Objective value =5663.0
+Advanced usage:
+Problem solved in 1124.000000 milliseconds
+Problem solved in 5408 iterations
+Problem solved in 2 branch-and-bound nodes
+p43:
+Objective value =5214.0
+Advanced usage:
+Problem solved in 403.000000 milliseconds
+Problem solved in 3752 iterations
+Problem solved in 1 branch-and-bound nodes
+p44:
+Objective value =7028.0
+Advanced usage:
+Problem solved in 226.000000 milliseconds
+Problem solved in 863 iterations
+Problem solved in 1 branch-and-bound nodes
+p45:
+Objective value =6251.0
+Advanced usage:
+Problem solved in 309.000000 milliseconds
+Problem solved in 1997 iterations
+Problem solved in 1 branch-and-bound nodes
+p46:
+Objective value =5651.0
+Advanced usage:
+Problem solved in 917.000000 milliseconds
+Problem solved in 5189 iterations
+Problem solved in 2 branch-and-bound nodes
+p47:
+Objective value =6228.0
+Advanced usage:
+Problem solved in 66.000000 milliseconds
+Problem solved in 260 iterations
+Problem solved in 1 branch-and-bound nodes
+p48:
+Objective value =5596.0
+Advanced usage:
+Problem solved in 250.000000 milliseconds
+Problem solved in 915 iterations
+Problem solved in 1 branch-and-bound nodes
+p49:
+Objective value =5302.0
+Advanced usage:
+Problem solved in 376.000000 milliseconds
+Problem solved in 1355 iterations
+Problem solved in 1 branch-and-bound nodes
+p5:
+Objective value =8838.000000000002
+Advanced usage:
+Problem solved in 71.000000 milliseconds
+Problem solved in 331 iterations
+Problem solved in 1 branch-and-bound nodes
+p50:
+Objective value =8741.0
+Advanced usage:
+Problem solved in 3602.000000 milliseconds
+Problem solved in 6263 iterations
+Problem solved in 27 branch-and-bound nodes
+p51:
+Objective value =7414.0
+Advanced usage:
+Problem solved in 5647.000000 milliseconds
+Problem solved in 11395 iterations
+Problem solved in 128 branch-and-bound nodes
+p52:
+Objective value =9178.000000000002
+Advanced usage:
+Problem solved in 266.000000 milliseconds
+Problem solved in 764 iterations
+Problem solved in 1 branch-and-bound nodes
+p53:
+Objective value =8531.0
+Advanced usage:
+Problem solved in 216.000000 milliseconds
+Problem solved in 926 iterations
+Problem solved in 1 branch-and-bound nodes
+p54:
+Objective value =8777.0
+Advanced usage:
+Problem solved in 114.000000 milliseconds
+Problem solved in 382 iterations
+Problem solved in 1 branch-and-bound nodes
+p55:
+Objective value =7653.999999999988
+Advanced usage:
+Problem solved in 762.000000 milliseconds
+Problem solved in 3816 iterations
+Problem solved in 4 branch-and-bound nodes
+p56:
+Objective value =21103.0
+Advanced usage:
+Problem solved in 11409.000000 milliseconds
+Problem solved in 14947 iterations
+Problem solved in 165 branch-and-bound nodes
+p57:
+Objective value =26039.0
+Advanced usage:
+Problem solved in 87559.000000 milliseconds
+Problem solved in 167282 iterations
+Problem solved in 2688 branch-and-bound nodes
+p58:
+Objective value =37609.0
+Advanced usage:
+Problem solved in 120081.000000 milliseconds
+Problem solved in 304368 iterations
+Problem solved in 1978 branch-and-bound nodes
+p59:
+Objective value =27282.0
+Advanced usage:
+Problem solved in 20818.000000 milliseconds
+Problem solved in 27762 iterations
+Problem solved in 83 branch-and-bound nodes
+p6:
+Objective value =7777.000000000001
+Advanced usage:
+Problem solved in 46.000000 milliseconds
+Problem solved in 195 iterations
+Problem solved in 1 branch-and-bound nodes
+p60:
+Objective value =20533.999999999996
+Advanced usage:
+Problem solved in 1007.000000 milliseconds
+Problem solved in 1741 iterations
+Problem solved in 1 branch-and-bound nodes
+p61:
+Objective value =24454.000000000004
+Advanced usage:
+Problem solved in 1042.000000 milliseconds
+Problem solved in 3672 iterations
+Problem solved in 1 branch-and-bound nodes
+p62:
+Objective value =32643.0
+Advanced usage:
+Problem solved in 30864.000000 milliseconds
+Problem solved in 33822 iterations
+Problem solved in 115 branch-and-bound nodes
+p63:
+Objective value =25104.999999999996
+Advanced usage:
+Problem solved in 1762.000000 milliseconds
+Problem solved in 5503 iterations
+Problem solved in 2 branch-and-bound nodes
+p64:
+Objective value =20530.0
+Advanced usage:
+Problem solved in 1184.000000 milliseconds
+Problem solved in 1768 iterations
+Problem solved in 1 branch-and-bound nodes
+p65:
+Objective value =24445.0
+Advanced usage:
+Problem solved in 1449.000000 milliseconds
+Problem solved in 4187 iterations
+Problem solved in 1 branch-and-bound nodes
+p66:
+Objective value =31415.0
+Advanced usage:
+Problem solved in 17439.000000 milliseconds
+Problem solved in 37015 iterations
+Problem solved in 40 branch-and-bound nodes
+p67:
+Objective value =24848.000000000004
+Advanced usage:
+Problem solved in 6959.000000 milliseconds
+Problem solved in 16071 iterations
+Problem solved in 9 branch-and-bound nodes
+p68:
+Objective value =20538.0
+Advanced usage:
+Problem solved in 838.000000 milliseconds
+Problem solved in 1878 iterations
+Problem solved in 1 branch-and-bound nodes
+p69:
+Objective value =24532.0
+Advanced usage:
+Problem solved in 1156.000000 milliseconds
+Problem solved in 4201 iterations
+Problem solved in 1 branch-and-bound nodes
+p7:
+Objective value =9488.0
+Advanced usage:
+Problem solved in 128.000000 milliseconds
+Problem solved in 431 iterations
+Problem solved in 1 branch-and-bound nodes
+p70:
+Objective value =32321.0
+Advanced usage:
+Problem solved in 11337.000000 milliseconds
+Problem solved in 19036 iterations
+Problem solved in 24 branch-and-bound nodes
+p71:
+Objective value =25540.0
+Advanced usage:
+Problem solved in 2827.000000 milliseconds
+Problem solved in 9039 iterations
+Problem solved in 2 branch-and-bound nodes
+p8:
+Objective value =11088.000000000002
+Advanced usage:
+Problem solved in 300.000000 milliseconds
+Problem solved in 1423 iterations
+Problem solved in 1 branch-and-bound nodes
+p9:
+Objective value =8462.0
+Advanced usage:
+Problem solved in 60.000000 milliseconds
+Problem solved in 291 iterations
+Problem solved in 1 branch-and-bound nodes

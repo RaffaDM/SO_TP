@@ -1,0 +1,73 @@
+
+p1:
+Objective value =32629478.0
+Advanced usage:
+Problem solved in 121774.000000 milliseconds
+Problem solved in 85267 iterations
+Problem solved in 13 branch-and-bound nodes
+p10:
+Objective value =20199077.0
+Advanced usage:
+Problem solved in 121764.000000 milliseconds
+Problem solved in 71915 iterations
+Problem solved in 3 branch-and-bound nodes
+p11:
+Objective value =20476169.0
+Advanced usage:
+Problem solved in 122118.000000 milliseconds
+Problem solved in 50289 iterations
+Problem solved in 11 branch-and-bound nodes
+p12:
+Objective value =21596216.0
+Advanced usage:
+Problem solved in 121717.000000 milliseconds
+Problem solved in 56503 iterations
+Problem solved in 14 branch-and-bound nodes
+p2:
+Objective value =19441941.0
+Advanced usage:
+Problem solved in 121761.000000 milliseconds
+Problem solved in 46948 iterations
+Problem solved in 8 branch-and-bound nodes
+p3:
+Objective value =23741994.0
+Advanced usage:
+Problem solved in 121727.000000 milliseconds
+Problem solved in 82819 iterations
+Problem solved in 17 branch-and-bound nodes
+p4:
+Objective value =26398105.000000004
+Advanced usage:
+Problem solved in 121382.000000 milliseconds
+Problem solved in 62380 iterations
+Problem solved in 31 branch-and-bound nodes
+p5:
+Objective value =25581209.0
+Advanced usage:
+Problem solved in 121601.000000 milliseconds
+Problem solved in 49887 iterations
+Problem solved in 19 branch-and-bound nodes
+p6:
+Objective value =24409718.0
+Advanced usage:
+Problem solved in 122468.000000 milliseconds
+Problem solved in 48891 iterations
+Problem solved in 11 branch-and-bound nodes
+p7:
+Objective value =25664952.0
+Advanced usage:
+Problem solved in 121732.000000 milliseconds
+Problem solved in 41205 iterations
+Problem solved in 15 branch-and-bound nodes
+p8:
+Objective value =25517509.0
+Advanced usage:
+Problem solved in 121413.000000 milliseconds
+Problem solved in 52802 iterations
+Problem solved in 20 branch-and-bound nodes
+p9:
+Objective value =20642657.0
+Advanced usage:
+Problem solved in 119858.000000 milliseconds
+Problem solved in 105460 iterations
+Problem solved in 3 branch-and-bound nodes
